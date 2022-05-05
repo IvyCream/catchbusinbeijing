@@ -7,7 +7,7 @@ if __name__ == '__main__':
     wechat_config = {
         'appid': '', #(No.1)此处填写公众号的appid
         'appsecret': '', #(No.2)此处填写公众号的appsecret
-        'template_id': '	', #(No.3)此处填写公众号的模板消息ID
+        'template_id': '', #(No.3)此处填写公众号的模板消息ID
         'bus_line': '450', # 公交线路
         'station': '洼里南口', # 上车站点
         'line_orientation': '田村半壁店东',  # 线路终点站（识别方向）
